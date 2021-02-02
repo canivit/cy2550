@@ -1,0 +1,204 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 20:53 ?        00:00:01 systemd
+root         2     0  0 20:53 ?        00:00:00 [kthreadd]
+root         3     2  0 20:53 ?        00:00:00 [rcu_gp]
+root         4     2  0 20:53 ?        00:00:00 [rcu_par_gp]
+root         6     2  0 20:53 ?        00:00:00 [kworker/0:0H-kblockd]
+root         8     2  0 20:53 ?        00:00:00 [mm_percpu_wq]
+root         9     2  0 20:53 ?        00:00:00 [ksoftirqd/0]
+root        10     2  0 20:53 ?        00:00:01 [rcu_sched]
+root        11     2  0 20:53 ?        00:00:00 [migration/0]
+root        12     2  0 20:53 ?        00:00:00 [cpuhp/0]
+root        13     2  0 20:53 ?        00:00:00 [cpuhp/1]
+root        14     2  0 20:53 ?        00:00:00 [migration/1]
+root        15     2  0 20:53 ?        00:00:00 [ksoftirqd/1]
+root        17     2  0 20:53 ?        00:00:00 [kworker/1:0H-kblockd]
+root        18     2  0 20:53 ?        00:00:00 [cpuhp/2]
+root        19     2  0 20:53 ?        00:00:00 [migration/2]
+root        20     2  0 20:53 ?        00:00:00 [ksoftirqd/2]
+root        22     2  0 20:53 ?        00:00:00 [kworker/2:0H-kblockd]
+root        23     2  0 20:53 ?        00:00:00 [cpuhp/3]
+root        24     2  0 20:53 ?        00:00:00 [migration/3]
+root        25     2  0 20:53 ?        00:00:00 [ksoftirqd/3]
+root        27     2  0 20:53 ?        00:00:00 [kworker/3:0H-kblockd]
+root        28     2  0 20:53 ?        00:00:00 [cpuhp/4]
+root        29     2  0 20:53 ?        00:00:00 [migration/4]
+root        30     2  0 20:53 ?        00:00:00 [ksoftirqd/4]
+root        32     2  0 20:53 ?        00:00:00 [kworker/4:0H-kblockd]
+root        33     2  0 20:53 ?        00:00:00 [cpuhp/5]
+root        34     2  0 20:53 ?        00:00:00 [migration/5]
+root        35     2  0 20:53 ?        00:00:00 [ksoftirqd/5]
+root        37     2  0 20:53 ?        00:00:00 [kworker/5:0H-kblockd]
+root        38     2  0 20:53 ?        00:00:00 [cpuhp/6]
+root        39     2  0 20:53 ?        00:00:00 [migration/6]
+root        40     2  0 20:53 ?        00:00:00 [ksoftirqd/6]
+root        41     2  0 20:53 ?        00:00:00 [kworker/6:0-events]
+root        42     2  0 20:53 ?        00:00:00 [kworker/6:0H-kblockd]
+root        43     2  0 20:53 ?        00:00:00 [cpuhp/7]
+root        44     2  0 20:53 ?        00:00:00 [migration/7]
+root        45     2  0 20:53 ?        00:00:00 [ksoftirqd/7]
+root        47     2  0 20:53 ?        00:00:00 [kworker/7:0H-kblockd]
+root        48     2  0 20:53 ?        00:00:00 [kdevtmpfs]
+root        49     2  0 20:53 ?        00:00:00 [netns]
+root        50     2  0 20:53 ?        00:00:00 [kauditd]
+root        52     2  0 20:53 ?        00:00:00 [khungtaskd]
+root        53     2  0 20:53 ?        00:00:00 [oom_reaper]
+root        54     2  0 20:53 ?        00:00:00 [writeback]
+root        55     2  0 20:53 ?        00:00:00 [kcompactd0]
+root        56     2  0 20:53 ?        00:00:00 [ksmd]
+root        57     2  0 20:53 ?        00:00:00 [khugepaged]
+root        77     2  0 20:53 ?        00:00:00 [kintegrityd]
+root        78     2  0 20:53 ?        00:00:00 [kblockd]
+root        79     2  0 20:53 ?        00:00:00 [blkcg_punt_bio]
+root        83     2  0 20:53 ?        00:00:00 [devfreq_wq]
+root        85     2  0 20:53 ?        00:00:00 [kswapd0]
+root        86     2  0 20:53 ?        00:00:00 [kthrotld]
+root        87     2  0 20:53 ?        00:00:00 [irq/123-aerdrv]
+root        88     2  0 20:53 ?        00:00:00 [irq/124-aerdrv]
+root        89     2  0 20:53 ?        00:00:00 [irq/125-aerdrv]
+root        90     2  0 20:53 ?        00:00:00 [irq/126-aerdrv]
+root        92     2  0 20:53 ?        00:00:00 [ipv6_addrconf]
+root        93     2  0 20:53 ?        00:00:00 [kstrp]
+root       172     2  0 20:53 ?        00:00:00 [nvme-wq]
+root       173     2  0 20:53 ?        00:00:00 [nvme-reset-wq]
+root       174     2  0 20:53 ?        00:00:00 [nvme-delete-wq]
+root       178     2  0 20:53 ?        00:00:00 [ata_sff]
+root       179     2  0 20:53 ?        00:00:00 [scsi_eh_0]
+root       180     2  0 20:53 ?        00:00:00 [scsi_tmf_0]
+root       181     2  0 20:53 ?        00:00:00 [scsi_eh_1]
+root       182     2  0 20:53 ?        00:00:00 [scsi_tmf_1]
+root       183     2  0 20:53 ?        00:00:00 [scsi_eh_2]
+root       184     2  0 20:53 ?        00:00:00 [scsi_tmf_2]
+root       185     2  0 20:53 ?        00:00:00 [scsi_eh_3]
+root       186     2  0 20:53 ?        00:00:00 [scsi_tmf_3]
+root       187     2  0 20:53 ?        00:00:00 [scsi_eh_4]
+root       188     2  0 20:53 ?        00:00:00 [scsi_tmf_4]
+root       195     2  0 20:53 ?        00:00:00 [kworker/7:1H-kblockd]
+root       213     2  0 20:53 ?        00:00:00 [kworker/6:1H-kblockd]
+root       216     2  0 20:53 ?        00:00:00 [kworker/4:1H-kblockd]
+root       235     2  0 20:53 ?        00:00:00 [kworker/5:1H-kblockd]
+root       236     2  0 20:53 ?        00:00:00 [jbd2/sda3-8]
+root       237     2  0 20:53 ?        00:00:00 [ext4-rsv-conver]
+root       366     2  0 20:53 ?        00:00:00 [kworker/3:1H-kblockd]
+root       369     2  0 20:53 ?        00:00:00 [kworker/2:1H-kblockd]
+root       372     2  0 20:53 ?        00:00:00 [kworker/1:1H-kblockd]
+root       377     2  0 20:53 ?        00:00:00 [kworker/0:1H-kblockd]
+root       531     1  0 20:53 ?        00:00:00 /nix/store/q6ylicsava582g55mdx0788yg2fib7js-systemd-246.6/lib/systemd/systemd-journald
+root       540     1  0 20:53 ?        00:00:00 /nix/store/q6ylicsava582g55mdx0788yg2fib7js-systemd-246.6/lib/systemd/systemd-udevd
+root       577     2  0 20:53 ?        00:00:00 [tpm_dev_wq]
+root       578     2  0 20:53 ?        00:00:00 [irq/31-smo8800]
+root       582     2  0 20:53 ?        00:00:00 [acpi_thermal_pm]
+root       590     2  0 20:53 ?        00:00:00 [kmemstick]
+root       602     2  0 20:53 ?        00:00:00 [cfg80211]
+root       604     2  0 20:53 ?        00:00:00 [cryptd]
+systemd+   646     1  0 20:53 ?        00:00:00 /nix/store/q6ylicsava582g55mdx0788yg2fib7js-systemd-246.6/lib/systemd/systemd-timesyncd
+root       655     2  0 20:53 ?        00:00:01 [irq/141-iwlwifi]
+root       673     2  0 20:53 ?        00:00:00 [watchdogd]
+root       730     2  0 20:53 ?        00:00:00 [kworker/u17:3-hci0]
+root       733     2  0 20:53 ?        00:00:01 [irq/51-DLL07B0:]
+root       741     2  0 20:53 ?        00:00:00 [nvkm-disp]
+root       806     2  0 20:53 ?        00:00:00 [ttm_swap]
+root       837     1  0 20:53 ?        00:00:00 /nix/store/0kvqgv2gvf1w3ip3zba6m2nj6ci9cpal-bluez-5.55/libexec/bluetooth/bluetoothd
+localti+   843     1  0 20:53 ?        00:00:00 /nix/store/07cn84c4mp2pv7vhqnfklyvwlb8f8cc7-localtime-2017-11-07/bin/localtimed
+message+   846     1  0 20:53 ?        00:00:06 /nix/store/7lvlrg8ij6y0lplm7w91wyhy2glxyqqi-dbus-1.12.20/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root       864     1  0 20:53 ?        00:00:00 /nix/store/bcms9h8wai9dbqkv0qwknq0qq7fxwcbz-accountsservice-0.6.55/libexec/accounts-daemon
+root       868     1  0 20:53 ?        00:00:00 /nix/store/q6ylicsava582g55mdx0788yg2fib7js-systemd-246.6/lib/systemd/systemd-logind
+root       922     1  0 20:53 ?        00:00:08 /nix/store/nzjsk3bd0klz99s932h7xhfxyggz6y5j-network-manager-1.26.0/sbin/NetworkManager --no-daemon
+geoclue    946     1  0 20:53 ?        00:00:05 /nix/store/wyvyad3wyswr8n5bpvc99w0vv6658nj6-geoclue-2.5.6/libexec/geoclue
+polkitu+   952     1  0 20:53 ?        00:00:00 /nix/store/x31cfs4anl1wavadf7hjfm71ddarz3dg-polkit-0.116/lib/polkit-1/polkitd --no-debug
+root       988     1  0 20:53 ?        00:00:02 /nix/store/wmsnhzgc9xri2bijqcs7zzldkf94apxm-wpa_supplicant-2.9/sbin//wpa_supplicant -u
+root      1001     1  0 20:53 ?        00:00:00 /nix/store/bp112r0j0dqbvw8dyrpqy9yw3fkmmbha-modem-manager-1.12.10/sbin/ModemManager --filter-policy=STRICT
+root      1035     1  0 20:53 tty1     00:00:00 agetty --login-program /nix/store/2baphr6hr3hwx9hzss17rk4z8qvvr27d-shadow-4.8.1/bin/login --noclear --keep-baud tty1 115200,38400,9600 linux
+root      1037     1  0 20:53 ?        00:00:00 /nix/store/nga3xarcpfwrl98kc3cx1791jrdf50na-lightdm-1.30.0/sbin/lightdm
+can       1135     1  0 20:53 ?        00:00:00 /nix/store/q6ylicsava582g55mdx0788yg2fib7js-systemd-246.6/lib/systemd/systemd --user
+can       1136  1135  0 20:53 ?        00:00:00 (sd-pam)
+can       1141  1135  0 20:53 ?        00:00:00 /nix/store/wyvyad3wyswr8n5bpvc99w0vv6658nj6-geoclue-2.5.6/libexec/geoclue-2.0/demos/agent
+can       1165  1135  0 20:53 ?        00:00:00 /nix/store/7lvlrg8ij6y0lplm7w91wyhy2glxyqqi-dbus-1.12.20/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+rtkit     1191     1  0 20:53 ?        00:00:00 /nix/store/68dg6gbzwj4ljsr6bfjac09yhdhkjsd8-rtkit-0.13/libexec/rtkit-daemon
+root      1202     2  0 20:53 ?        00:00:00 [krfcommd]
+root      1363     1  0 20:53 ?        00:00:00 dhcpcd --quiet --config /nix/store/x6w0qm6qhm2hgxs5j0av7yckjpsphb2n-dhcpcd.conf
+root      1585  1037  1 20:55 tty7     00:00:57 /nix/store/9hzf53n2sd5y4d5ffbkwa8h4axg47b11-xorg-server-1.20.10/bin/X -config /nix/store/6izwjnrq56h8x6q3y5mlkxsg9gkyfzm8-xserver.conf -xkbdir /nix/store/5ddn6fmb82vbkipjpkqccak6l7n34mlm-xkeyboard-config-2.27/etc/X11/xkb -logfile /dev/null -verbose 3 -nolisten tcp -terminate -logfile /var/log/X.0.log :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1652  1037  0 20:55 ?        00:00:00 lightdm --session-child 12 19
+can       1662  1652  0 20:55 ?        00:00:00 /nix/store/a3fc4zqaiak11jks9zd579mz5v0li8bg-bash-4.4-p23/bin/bash /nix/store/mhr2jwnmhbph33mkssm9kalzpayaqwhk-xsession
+can       1670  1135  0 20:55 ?        00:00:03 /nix/store/h1fhc1lw5cyi363gv0i18pzh12p2f9gh-network-manager-applet-1.18.0/bin/nm-applet
+can       1671  1662  0 20:55 ?        00:00:00 /nix/store/qn2m63j402hfj92c42ilak4nj779imw5-i3-gaps-4.18.3/bin/i3
+can       1679     1  0 20:55 ?        00:00:00 /run/current-system/sw/bin/light-locker
+can       1681     1  0 20:55 ?        00:00:00 xss-lock --transfer-sleep-lock -- light-locker-command -l
+can       1692     1  0 20:55 ?        00:00:14 /run/current-system/sw/bin/polybar main -c /home/can/.config/polybar/config.ini
+can       1696  1135  0 20:55 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfsd
+can       1702  1135  0 20:55 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+can       1719  1135  0 20:55 ?        00:00:00 /nix/store/q942bg0n1p2ds0ijwp1cm7j2h4sdif23-pulseaudio-13.0/bin/pulseaudio --daemonize=no
+can       1724  1719  0 20:55 ?        00:00:00 /nix/store/q942bg0n1p2ds0ijwp1cm7j2h4sdif23-pulseaudio-13.0/libexec/pulse/gsettings-helper
+can       2959  1135  0 20:58 ?        00:00:00 /nix/store/7wjmmcv527nknnd4ccjqcn71gn2jrr1z-xfconf-4.14.3/lib/xfce4/xfconf/xfconfd
+can       2965  1135  0 20:58 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfs-udisks2-volume-monitor
+root      2968     1  0 20:58 ?        00:00:00 /nix/store/3i1dz2b9bdfg9szl2mw5gkbzzab82g9x-udisks-2.8.4/libexec/udisks2/udisksd
+can       2988  1135  0 20:58 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfs-goa-volume-monitor
+can       2992  1135  0 20:58 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfs-afc-volume-monitor
+can       2997  1135  0 20:58 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfs-mtp-volume-monitor
+can       3001  1135  0 20:58 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfs-gphoto2-volume-monitor
+can       3005  1135  0 20:58 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfsd-metadata
+can       3008  1696  0 20:58 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
+root      3219     1  0 21:00 ?        00:00:00 nix-daemon --daemon
+root      4034     2  0 21:04 ?        00:00:01 [kworker/3:0-mm_percpu_wq]
+can       4412     1  1 21:06 ?        00:00:51 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome
+can       4417  4412  0 21:06 ?        00:00:00 cat
+can       4418  4412  0 21:06 ?        00:00:00 cat
+can       4421  4412  0 21:06 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=zygote --no-zygote-sandbox
+can       4422  4412  0 21:06 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=zygote
+can       4423  4422  0 21:06 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/nacl_helper
+can       4426  4422  0 21:06 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=zygote
+can       4446  4421  0 21:06 ?        00:00:42 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=gpu-process --field-trial-handle=5723314761396664852,15179375831110801254,131072 --gpu-preferences=QAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA --shared-files
+can       4449  4412  0 21:06 ?        00:00:05 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --service-sandbox-type=network --shared-files=v8_context_snapshot_data:100
+can       4462  4426  0 21:06 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --service-sandbox-type=utility --shared-files=v8_context_snapshot_data:100
+can       4504  4426  0 21:06 ?        00:00:03 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --extension-process --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       4692  4426  0 21:06 ?        00:00:03 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=13 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       4707  4426  0 21:06 ?        00:00:03 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=16 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       4708  4426  0 21:06 ?        00:00:04 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=14 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       4713  4426  0 21:06 ?        00:00:05 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=12 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       4780  4426  0 21:06 ?        00:00:04 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=15 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       4971  4412  0 21:07 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --service-sandbox-type=none --shared-files=v8_context_snapshot_data:100
+root      5024     2  0 21:07 ?        00:00:00 [kworker/1:1-events]
+can       5697  4426  0 21:08 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=33 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       5808  1696  0 21:10 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfsd-network --spawner :1.9 /org/gtk/gvfs/exec_spaw/1
+can       5836  1696  0 21:10 ?        00:00:00 /nix/store/cnjw7r9gkwbk0xb3pk6fv46qqpwdrh98-gvfs-1.44.1/libexec/gvfsd-dnssd --spawner :1.9 /org/gtk/gvfs/exec_spaw/3
+can       5916     1  0 21:10 ?        00:00:00 /nix/store/1ga9jf3xd04mx13jnj7jd9j85jxyhbps-eclipse-java-4.16/eclipse/eclipse -configuration /home/can/.eclipse/org.eclipse.platform_4.16.0/configuration
+can       5934  5916  2 21:10 ?        00:02:14 /nix/store/48ddc74sdlinbg5q5655i4z8kp6xasb0-openjdk-11.0.9+11/bin/java -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication --add-modules=ALL-SYSTEM -Dosgi.requiredJavaVersion=1.8 -Dosgi.dataAreaRequiresExplicitInit=true -Xms256m -Xmx2048m --add-modules=ALL-SYSTEM -jar /nix/store/1ga9jf3xd04mx13jnj7jd9j85jxyhbps-eclipse-java-4.16/eclipse//plugins/org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar -os linux -ws gtk -arch x86_64 -showsplash /nix/store/1ga9jf3xd04mx13jnj7jd9j85jxyhbps-eclipse-java-4.16/eclipse//plugins/org.eclipse.epp.package.common_4.16.0.20200615-1200/splash.bmp -launcher /nix/store/1ga9jf3xd04mx13jnj7jd9j85jxyhbps-eclipse-java-4.16/eclipse/eclipse -name Eclipse --launcher.library /nix/store/1ga9jf3xd04mx13jnj7jd9j85jxyhbps-eclipse-java-4.16/eclipse//plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.1200.v20200508-1552/eclipse_1801.so -startup /nix/store/1ga9jf3xd04mx13jnj7jd9j85jxyhbps-eclipse-java-4.16/eclipse//plugins/org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar --launcher.appendVmargs -exitdata 8012 -product org.eclipse.epp.package.java.product -configuration /home/can/.eclipse/org.eclipse.platform_4.16.0/configuration -vm /nix/store/48ddc74sdlinbg5q5655i4z8kp6xasb0-openjdk-11.0.9+11/bin/java -vmargs -Dosgi.requiredJavaVersion=1.8 -Dosgi.instance.area.default=@user.home/eclipse-workspace -XX:+UseG1GC -XX:+UseStringDeduplication --add-modules=ALL-SYSTEM -Dosgi.requiredJavaVersion=1.8 -Dosgi.dataAreaRequiresExplicitInit=true -Xms256m -Xmx2048m --add-modules=ALL-SYSTEM -jar /nix/store/1ga9jf3xd04mx13jnj7jd9j85jxyhbps-eclipse-java-4.16/eclipse//plugins/org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar
+root      5989     2  0 21:10 ?        00:00:00 [kworker/4:0-events]
+can       6527  5934  0 21:10 ?        00:00:01 /nix/store/hmky82dhqrzs8fw9bm8dldy6b2fd0pbj-webkitgtk-2.30.3/libexec/webkit2gtk-4.0/WebKitWebProcess 7 133
+can       6528  5934  0 21:10 ?        00:00:00 /nix/store/hmky82dhqrzs8fw9bm8dldy6b2fd0pbj-webkitgtk-2.30.3/libexec/webkit2gtk-4.0/WebKitNetworkProcess 8 133
+root      6600     2  0 21:11 ?        00:00:00 [kworker/5:2-mm_percpu_wq]
+can       6702  5934  0 21:12 ?        00:00:01 /nix/store/hmky82dhqrzs8fw9bm8dldy6b2fd0pbj-webkitgtk-2.30.3/libexec/webkit2gtk-4.0/WebKitWebProcess 23 158
+can       6781  5934  0 21:13 ?        00:00:00 /nix/store/hmky82dhqrzs8fw9bm8dldy6b2fd0pbj-webkitgtk-2.30.3/libexec/webkit2gtk-4.0/WebKitWebProcess 30 158
+root      7077     2  0 21:41 ?        00:00:00 [kworker/0:1-events]
+root      7080     2  0 21:41 ?        00:00:00 [kworker/3:1-rcu_gp]
+root      7094     2  0 21:41 ?        00:00:00 [kworker/4:1-mm_percpu_wq]
+root      7097     2  0 21:41 ?        00:00:00 [kworker/1:0-mm_percpu_wq]
+root      7117     2  0 21:44 ?        00:00:01 [kworker/7:1-events]
+root      7164     2  0 21:44 ?        00:00:00 [kworker/7:2-rcu_gp]
+root      7209     2  0 21:44 ?        00:00:00 [kworker/0:2-rcu_gp]
+root      7214     2  0 21:44 ?        00:00:00 [kworker/u16:17-phy0]
+root      7238     2  0 22:16 ?        00:00:00 [irq/128-mei_me]
+root      7249     2  0 22:16 ?        00:00:00 [kworker/u16:52-events_unbound]
+root      7256     2  0 22:16 ?        00:00:00 [kworker/5:0-events]
+root      7257     2  0 22:16 ?        00:00:00 [kworker/u17:1-rb_allocator]
+root      7325     2  0 22:16 ?        00:00:00 [kworker/2:3-rcu_gp]
+root      7326     2  0 22:16 ?        00:00:00 [kworker/2:5-mm_percpu_wq]
+nscd      7553     1  0 22:16 ?        00:00:00 nscd
+can       7621  4426  1 22:16 ?        00:00:10 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=42 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+root      7809     2  0 22:18 ?        00:00:00 [kworker/6:1-mm_percpu_wq]
+can       7810  4426  3 22:18 ?        00:00:22 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=56 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       7933  4426  0 22:20 ?        00:00:01 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=61 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       7996  4426  2 22:20 ?        00:00:13 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=66 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       8087  4426  0 22:20 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=71 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       8101  4426  0 22:20 ?        00:00:02 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=72 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       8115  4426  0 22:20 ?        00:00:00 /nix/store/djxjdxjn2rv0q0ymlx7psg9xg2z78zsk-google-chrome-88.0.4324.96/share/google/chrome/chrome --type=renderer --field-trial-handle=5723314761396664852,15179375831110801254,131072 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=73 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100
+can       8158     1  0 22:21 ?        00:00:03 alacritty
+can       8163  8158  0 22:21 pts/0    00:00:00 /run/current-system/sw/bin/bash
+root      8529     2  0 22:22 ?        00:00:00 [kworker/7:3-mm_percpu_wq]
+root      8775     2  0 22:25 ?        00:00:00 [kworker/2:0-mm_percpu_wq]
+root      8776     2  0 22:25 ?        00:00:00 [kworker/2:1-events]
+root      9093     2  0 22:25 ?        00:00:00 [kworker/3:2-events]
+root      9094     2  0 22:25 ?        00:00:00 [kworker/3:3-mm_percpu_wq]
+root      9150     2  0 22:26 ?        00:00:00 [kworker/u16:0-i915]
+root      9151     2  0 22:26 ?        00:00:00 [kworker/0:0-events_power_efficient]
+can       9194  8163  0 22:28 pts/0    00:00:00 ps -ef
