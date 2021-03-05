@@ -1,5 +1,4 @@
 chmod go-w /home/bob/
-chmod g+w /home/bob/work/
 chmod go-w /home/alice/.profile
 chmod go-w /usr/bin/bash
 chmod go-w /usr/bin/ls
@@ -8,3 +7,4 @@ chmod go-w /usr/bin/sha1sum
 chmod go-w /usr/sbin/adduser
 chmod o-w /var/log/lastlog
 chown :root /var/log/apt/
+chmod o-r /etc/securetty
