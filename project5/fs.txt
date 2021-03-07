@@ -7,4 +7,4 @@ chmod go-w /usr/bin/sha1sum
 chmod go-w /usr/sbin/adduser
 chmod o-w /var/log/lastlog
 chown :root /var/log/apt/
-chmod 755 /var/log/
+chmod o-w /var/log/lastlog
